@@ -35,3 +35,11 @@ th:nth-of-type(5),
 td:nth-of-type(5){
   background: #f8e2e2;
 }
+th:nth-of-type(6),
+td:nth-of-type(6){
+  background: #f8e2eb;
+}
+th:nth-of-type(7),
+td:nth-of-type(7){
+  background: #f7e2f8;
+}
